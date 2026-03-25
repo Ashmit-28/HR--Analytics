@@ -1,4 +1,5 @@
 📊 HR Analytics Dashboard using Power BI
+
 📌 Project Overview
 
 This project focuses on analyzing employee data to identify key factors affecting employee attrition and overall workforce performance. The dashboard was developed using Power BI to transform raw HR data into meaningful insights through interactive visualizations and key performance indicators (KPIs).
