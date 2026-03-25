@@ -12,12 +12,16 @@ Identify factors influencing employee turnover.
 Monitor workforce demographics such as age, gender, and education.
 Track key HR metrics such as employee count and salary distribution.
 Build an interactive dashboard for easy data exploration.
+
+
 🛠️ Tools & Technologies Used
 Power BI – Dashboard development and visualization
 Power Query – Data cleaning and transformation
 DAX (Data Analysis Expressions) – KPI calculations and measures
 Microsoft Excel / HR Dataset – Data source
 Data Visualization Techniques – Charts, slicers, and KPI cards
+
+
 📂 Dataset Description
 
 The dataset contains employee-related information used to analyze workforce patterns and attrition behavior.
@@ -48,6 +52,8 @@ Standardized column names
 Converted data types (text, numeric, date)
 Created calculated columns where necessary
 Structured dataset for efficient reporting
+
+
 📊 Dashboard Features
 
 The HR Analytics dashboard includes multiple interactive visual components:
@@ -76,6 +82,8 @@ Education Field
 Age Group
 Drill-down analysis for detailed insights
 Interactive filtering for customized data views
+
+
 📈 Key Insights Generated
 
 Some important insights derived from the dashboard include:
@@ -103,6 +111,8 @@ Improved understanding of HR analytics and workforce trends
 Strengthened skills in Power BI dashboard development
 Gained hands-on experience with DAX and data modeling
 Developed ability to convert raw data into business insights
+
+
 📚 Skills Demonstrated
 Data Cleaning
 Data Transformation
@@ -112,6 +122,8 @@ KPI Analysis
 Business Intelligence
 HR Data Analysis
 Problem Solving
+
+
 🔮 Future Improvements
 Add predictive analytics for attrition forecasting
 Integrate machine learning models
